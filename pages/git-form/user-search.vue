@@ -77,7 +77,7 @@
 export default {
   data() {
     return {
-      git_hub_user: 'saif-ur-rehman',
+      git_hub_user: 'jazib',
       sub_loader: false,
       git_user_data: {},
     }
